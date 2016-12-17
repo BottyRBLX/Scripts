@@ -1,0 +1,7 @@
+local plr = game.Players.LocalPlayer
+local group = groupid
+local minrank = minrank
+
+if plr:GetRankInGroup(Group) >= minrank then
+
+-- insert actions
